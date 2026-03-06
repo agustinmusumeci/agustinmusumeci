@@ -27,7 +27,7 @@
 
 [linkendin_url]: https://www.linkedin.com/in/agustinmusumeci/
 [gmail_url]: mailto:agu.musumeci@gmail.com
-[portfolio_url]: https://musu.dev
+[portfolio_url]: https://musumeci.dev
 
 [linkendin_img]: https://img.shields.io/badge/linkedin-blue?style=for-the-badge
 [gmail_img]: https://img.shields.io/badge/gmail-grey?style=for-the-badge&logo=gmail
