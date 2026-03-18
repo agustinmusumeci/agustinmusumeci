@@ -30,7 +30,7 @@
 
 🌱 <b>I’m currently learning ... </b>
 
-[![Django][django_img]][django_url] [![PHP][php_img]][php_url] 
+[![Django][django_img]][django_url] [![PHP][php_img]][php_url] [![Prisma][prisma_img]][prisma_url] 
 
 
 [linkendin_url]: https://www.linkedin.com/in/agustinmusumeci/
@@ -56,6 +56,7 @@
 [sequelize_url]: https://sequelize.org/
 [django_url]: https://www.djangoproject.com/
 [php_url]: https://www.php.net/
+[prisma_url]: https://www.prisma.io/
 
 [js_img]:  https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white
 [typescript_img]: https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=black
@@ -69,6 +70,8 @@
 [sqlite_img]: https://img.shields.io/badge/sqlite-blue?style=for-the-badge&logo=sqlite&logoColor=white
 [mariadb_img]: https://img.shields.io/badge/mariadb-brown?style=for-the-badge&logo=mariadb&logoColor=white
 [sequelize_img]: https://img.shields.io/badge/sequelize-skyblue?style=for-the-badge&logo=sequelize&logoColor=black
+[prisma_img]: https://img.shields.io/badge/prisma-beige?style=for-the-badge&logo=prisma&logoColor=black
+
 
 [django_img]: https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white
 [php_img]: https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white
